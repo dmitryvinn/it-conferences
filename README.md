@@ -9,7 +9,7 @@ List of IT conferences for 2019 year. Currently, the list focuses on next type o
 * Agile
 
 ## Goal:
-People (myself included) often wonder where they can find conferences to apply to speak at, or to attend. 
+People often wonder where they can find conferences to apply to speak at, or to attend. 
 If you are a new speaker, or want to try to share your ideas and/or experience with the public, I hope this list will show you that there are many opportunities for you to try to unleash your "inner speaker". 
 Looking for more help to get started? Feel free to reach out to me directly [@DmitryVinnik](https://twitter.com/DmitryVinnik), or to awesome people at [SpeakEasy](https://speaking-easy.com/).
 
